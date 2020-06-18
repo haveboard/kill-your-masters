@@ -102,6 +102,12 @@ Wiki reference:
 Wrong Answers only thread on twitter:
 [https://twitter.com/talia_nassi/status/1271547824493285376]
 
+### Make Template to set defaults every time
+
+I haven't tried this out yet but (@_Gaeel_)[https://twitter.com/_Gaeel_] tweeted a way to make a template to 'stop Git from naming the first branch "master" by default'.
+
+[https://twitter.com/_Gaeel_/status/1184740771548803077]
+[https://twitter.com/_Gaeel_/status/1184762386881884160]
 
 ### Inspiration
 
@@ -109,11 +115,3 @@ Thank you to Run the Jewels [https://runthejewels.com/] for the metaphor that I 
 
 [https://www.youtube.com/watch?v=pg0byaqVaXo]
 [https://www.daylightcurfew.com/collections/kill-your-masters]
-
-
-### Make Template to set defaults every time
-
-I haven't tried this out yet but (@_Gaeel_)[https://twitter.com/_Gaeel_] tweeted a way to make a template to 'stop Git from naming the first branch "master" by default'.
-
-[https://twitter.com/_Gaeel_/status/1184740771548803077]
-[https://twitter.com/_Gaeel_/status/1184762386881884160]
