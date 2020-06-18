@@ -45,6 +45,7 @@ Provide a collection of resources to make renaming things straightforward and pr
 Long term goal would be to see `git` and other tools to implement this renaming from a default level in future releases.
 
 ## Suggested Alternatives
+ - `trunk`
  - `production`
  - `prod`
  - `main`
@@ -108,3 +109,11 @@ Thank you to Run the Jewels [https://runthejewels.com/] for the metaphor that I 
 
 [https://www.youtube.com/watch?v=pg0byaqVaXo]
 [https://www.daylightcurfew.com/collections/kill-your-masters]
+
+
+### Make Template to set defaults every time
+
+I haven't tried this out yet but (@_Gaeel_)[https://twitter.com/_Gaeel_] tweeted a way to make a template to 'stop Git from naming the first branch "master" by default'.
+
+[https://twitter.com/_Gaeel_/status/1184740771548803077]
+[https://twitter.com/_Gaeel_/status/1184762386881884160]
