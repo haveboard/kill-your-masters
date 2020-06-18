@@ -107,8 +107,8 @@ https://twitter.com/talia_nassi/status/1271547824493285376
 
 I haven't tried this out yet but [@_Gaeel_](https://twitter.com/_Gaeel_) tweeted a way to make a template to 'stop Git from naming the first branch "master" by default'.
 
-https://twitter.com/\_Gaeel\_/status/1184740771548803077
-https://twitter.com/\_Gaeel\_/status/1184762386881884160
+https://twitter.com/_Gaeel_/status/1184740771548803077
+https://twitter.com/_Gaeel_/status/1184762386881884160
 
 ### Inspiration
 
