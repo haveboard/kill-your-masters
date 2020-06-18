@@ -87,31 +87,32 @@ git remote prune origin                 # delete the remote tracking branch
  
 ## django and drupal have already made efforts here
 
-hat tip to @mikeyp [https://github.com/mikeyp] for pointing this out
+hat tip to [@mikeyp](https://github.com/mikeyp) for pointing this out
 
 Drupal
-[https://www.drupal.org/project/drupal/issues/2275877?fbclid=IwAR0CoST6cvPVXK3cyJwmYFeoY7OppykCCpKOFd08KOTWRbaRy-Y5Bdjucdg]
+https://www.drupal.org/project/drupal/issues/2275877
+
 Django
-[https://github.com/django/django/pull/2692]
-[https://github.com/django/django/commit/beec05686ccc3bee8461f9a5a02c607a02352ae1]
+https://github.com/django/django/pull/2692
+https://github.com/django/django/commit/beec05686ccc3bee8461f9a5a02c607a02352ae1
 
 ## Links
 Wiki reference:
-[https://en.wikipedia.org/wiki/Master/slave_(technology)]
+https://en.wikipedia.org/wiki/Master/slave_(technology)
 
 Wrong Answers only thread on twitter:
-[https://twitter.com/talia_nassi/status/1271547824493285376]
+https://twitter.com/talia_nassi/status/1271547824493285376
 
 ### Make Template to set defaults every time
 
-I haven't tried this out yet but (@_Gaeel_)[https://twitter.com/_Gaeel_] tweeted a way to make a template to 'stop Git from naming the first branch "master" by default'.
+I haven't tried this out yet but [@_Gaeel_](https://twitter.com/_Gaeel_) tweeted a way to make a template to 'stop Git from naming the first branch "master" by default'.
 
-[https://twitter.com/_Gaeel_/status/1184740771548803077]
-[https://twitter.com/_Gaeel_/status/1184762386881884160]
+https://twitter.com/\_Gaeel\_/status/1184740771548803077
+https://twitter.com/\_Gaeel\_/status/1184762386881884160
 
 ### Inspiration
 
-Thank you to Run the Jewels [https://runthejewels.com/] for the metaphor that I borrowed for the name of this project.
+Thank you to [Run the Jewels](https://runthejewels.com/)  for the metaphor that I borrowed for the name of this project.
 
-[https://www.youtube.com/watch?v=pg0byaqVaXo]
-[https://www.daylightcurfew.com/collections/kill-your-masters]
+[https://www.youtube.com/watch?v=pg0byaqVaXo](https://www.youtube.com/watch?v=pg0byaqVaXo)
+[https://www.daylightcurfew.com/collections/kill-your-masters](https://www.daylightcurfew.com/collections/kill-your-masters)
