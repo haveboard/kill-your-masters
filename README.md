@@ -116,3 +116,4 @@ Thank you to [Run the Jewels](https://runthejewels.com/)  for the metaphor that 
 
 [https://www.youtube.com/watch?v=pg0byaqVaXo](https://www.youtube.com/watch?v=pg0byaqVaXo)
 [https://www.daylightcurfew.com/collections/kill-your-masters](https://www.daylightcurfew.com/collections/kill-your-masters)
+.
